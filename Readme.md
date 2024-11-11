@@ -12,6 +12,36 @@ Welcome to the **Retro App**! This application provides real-time chat capabilit
 
 The **Chat App** is a real-time messaging platform that supports both **one-on-one** and **group chat** functionalities. The app includes features such as user authentication, persistent notifications, room management, and more.
 
+## Project Features:
+
+### 1. **Login and SignUp**
+
+- Users can log in and sign up to access the chat platform.
+
+![Login](./assets/gifs/login.gif)
+
+![Register](./assets/gifs/register.gif)
+
+### 2. **Public Room Chat**
+
+- Users can create and participate in public chat rooms, where anyone can join.
+
+![Private Room 1](./assets/gifs/public%20room.gif)
+
+### 2. **Private Room Chat**
+
+- Users can create and participate in private chat rooms, where only allowed participants can join.
+
+![Private Room 1](./assets/gifs/private%20room%201.gif)
+
+![Private Room 2](./assets/gifs/private%20room%202.gif)
+
+### 3. **Retain Chat History**
+
+- Chats are retained for users, allowing them to access previous messages even after refreshing or closing the app.
+
+![Retain Chat](./assets/gifs/retain%20chat.gif)
+
 ---
 
 ## Cloning the Repo with Submodules
