@@ -36,6 +36,12 @@ The **Chat App** is a real-time messaging platform that supports both **one-on-o
 
 ![Private Room 2](./assets/gifs/private%20room%202.gif)
 
+### 3. **Chat**
+
+- Chats.
+
+![Retain Chat](./assets/gifs/chat.gif)
+
 ### 3. **Retain Chat History**
 
 - Chats are retained for users, allowing them to access previous messages even after refreshing or closing the app.
